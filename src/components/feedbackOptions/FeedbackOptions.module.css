@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button {
+  width: 20%;
+  padding: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+  background: rgb(250, 242, 9);
+  border-radius: 6px;
+  border: none;
+}
